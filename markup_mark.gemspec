@@ -6,6 +6,6 @@ Gem::Specification.new do |s|
   s.authors     = ["Stefan 'Mongoose' Hartmann"]
   s.email       = "pukeahontasco@gmail.com"
   s.files       = ["lib/markup_mask.rb"]
-  s.homepage    = ["http://rubygems.org/gems/markup_mask"]
+  s.homepage    = "https://github.com/schmartmann/markup_mask"
   s.license     = "MIT"
 end
