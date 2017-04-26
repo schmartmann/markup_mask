@@ -10,8 +10,8 @@ status = HTTParty.get("http://mtastat.us/api/trains/M")
 
 {"name"=>"M",
  "status"=>"planned <br> work."}
-INFOMERICAL V.O.: 
 ```
+
 INFOMERCIAL V.O (CON'T): 
 Do you spend **forever** combing through unwanted markup in strings?
 
