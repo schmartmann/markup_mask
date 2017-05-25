@@ -26,8 +26,6 @@ There's _got to be a better way_!
 INFOMERCIAL V.O. (CON'T): 
 Well, now there is!
 
-![](https://media.giphy.com/media/5lv2pwsT4A2nC/giphy.gif)
-
 ```rb
 @new_status = MarkupMask.markup_mask(status["status"])
 ["planned ", "<br>", " work."]
